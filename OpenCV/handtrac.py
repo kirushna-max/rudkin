@@ -2,13 +2,7 @@ import cv2
 import mediapipe as mp
 import pyautogui
 import numpy as np
-import torch
-import torchvision
 from filterpy.kalman import KalmanFilter
-
-# Use PyTorch CUDA acceleration
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print("Using device:", device)
 
 # Initialize MediaPipe Hands (Hand tracking model)
 mp_hands = mp.solutions.hands
