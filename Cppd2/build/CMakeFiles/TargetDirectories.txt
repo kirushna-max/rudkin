@@ -1,0 +1,3 @@
+/home/kriss/Documents/repoclone/Cppd2/build/CMakeFiles/circles.dir
+/home/kriss/Documents/repoclone/Cppd2/build/CMakeFiles/edit_cache.dir
+/home/kriss/Documents/repoclone/Cppd2/build/CMakeFiles/rebuild_cache.dir
